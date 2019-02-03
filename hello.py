@@ -19,5 +19,5 @@ marks3=int(input("enter marks3\n"))
 marks.append(marks3)
 for m in marks:
     sum+=m
-print(sum)
+print("Result:",sum)
 
