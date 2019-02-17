@@ -5,10 +5,10 @@ mark3=int(input("Entermark 3\n"))
 mark4=int(input("Enter mark 4\n"))
 mark5=int(input("Entermark 5\n"))
 sum=mark1+mark2+mark3+mark4+mark5
-print("sum",sum)'''
+print("sum",sum)
 user=['khadga','suman']
 #newUser=input("Enter name:\n")
-#for u in user:
+#for u in user:'''
 marks=[]
 sum=0
 marks1=int(input("enter mark1\n"))
